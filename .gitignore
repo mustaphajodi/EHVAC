@@ -1,0 +1,15 @@
+# MATLAB auto-generated
+*.asv
+*.fig
+*.mex*
+*.mlx
+*.mltbx
+*.slxc
+*.slxp
+*.sldd
+*.mat
+# Backup/undo files
+*~
+~*
+# macOS
+.DS_Store
