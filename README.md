@@ -1,2 +1,2 @@
 # EHVAC
-A MATLAB toolbox for evacuation-flow simulation in high-rise buildings.
+A MATLAB toolbox for monitoring evacuation-flow in high-rise buildings.
